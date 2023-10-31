@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-31T03:55:25.708Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="RJOYXlPqG6BDduenXmhz" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-31T05:04:55.602Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="yDz9sVJAsZyQP1Mv6Z3q" version="21.6.6" type="github">
   <diagram name="Page-1" id="fCquEHRTi7rFjkFJdamn">
-    <mxGraphModel dx="4148" dy="2236" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="2105" dy="960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -490,7 +490,7 @@
           <mxGeometry x="2119.12" y="2758.25" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tbLJHxu7H_uGALW-EGp5-277" value="Signal ML Workers to download Model" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="2279.12" y="2671.25" width="120" height="60" as="geometry" />
+          <mxGeometry x="2410" y="2620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tbLJHxu7H_uGALW-EGp5-283" value="" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rounded=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="592" y="1986.75" width="50" height="490" as="geometry" />
