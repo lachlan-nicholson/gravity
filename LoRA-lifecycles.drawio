@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-31T05:08:03.812Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="9YyyfRQHaqrwJ32Oih4G" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-14T01:36:38.633Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="6VzrYZdVxy-yoWk-AH1g" version="21.6.6" type="github">
   <diagram name="Page-1" id="fCquEHRTi7rFjkFJdamn">
-    <mxGraphModel dx="2526" dy="1152" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="2105" dy="960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -505,37 +505,37 @@
           <mxGeometry x="1114.07" y="2167.75" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tbLJHxu7H_uGALW-EGp5-289" value="" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rounded=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="1729.5" y="2221.25" width="50" height="1370" as="geometry" />
+          <mxGeometry x="1988.57" y="2480.31" width="50" height="851.87" as="geometry" />
         </mxCell>
         <mxCell id="tbLJHxu7H_uGALW-EGp5-290" value="Deploy to Production" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="1664.5" y="2971.25" width="180" height="30" as="geometry" />
+          <mxGeometry x="1930" y="2950" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tbLJHxu7H_uGALW-EGp5-291" value="Upload Model to Dev S3" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="2630" y="1190" width="110" height="50" as="geometry" />
+          <mxGeometry x="2670" y="1470" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tbLJHxu7H_uGALW-EGp5-292" value="Add to Dev Elements Database" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="2632.5" y="1260" width="107.5" height="50" as="geometry" />
+          <mxGeometry x="2672.5" y="1540" width="107.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tbLJHxu7H_uGALW-EGp5-293" value="Update Element Metadata" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="2635" y="1330" width="100" height="60" as="geometry" />
+          <mxGeometry x="2675" y="1610" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tbLJHxu7H_uGALW-EGp5-294" value="Update Model File" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="2640" y="1410" width="90" height="60" as="geometry" />
+          <mxGeometry x="2680" y="1690" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tbLJHxu7H_uGALW-EGp5-295" value="Copy Thumbnail to s3 and update metadata" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2636.25" y="1490" width="100" height="60" as="geometry" />
+          <mxGeometry x="2676.25" y="1770" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tbLJHxu7H_uGALW-EGp5-296" value="Update owner and visibility" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="2636.25" y="1566.25" width="100" height="60" as="geometry" />
+          <mxGeometry x="2676.25" y="1846.25" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tbLJHxu7H_uGALW-EGp5-297" value="Copy Model / Thumbnail from dev s3 to prod s3/r2" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="2824.06" y="1310" width="120" height="70" as="geometry" />
+          <mxGeometry x="2864.06" y="1590" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="tbLJHxu7H_uGALW-EGp5-298" value="Copy metadata from dev to prod" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="2820" y="1400" width="128.13" height="70" as="geometry" />
+          <mxGeometry x="2860" y="1680" width="128.13" height="70" as="geometry" />
         </mxCell>
         <mxCell id="tbLJHxu7H_uGALW-EGp5-299" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;Required Services&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2680" y="1060" width="240" height="40" as="geometry" />
+          <mxGeometry x="2720" y="1340" width="240" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
